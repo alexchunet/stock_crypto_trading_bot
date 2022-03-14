@@ -1,2 +1,2 @@
-# stock_crypto_trading_bot
-Sample of trading bot I have built for crypto currency and stocks
+# Stock/Crypto trading bot
+This is an example of trading bot I have coded and ran on Google Cloud analyzing technical indicators and triggering buy and sell signals, based on the binance api.
